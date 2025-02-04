@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\supportlearning\\authenticaiton page\\authentication.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|solutionrelative:supportlearning\\authenticaiton page\\authentication.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|c:\\users\\msi pc\\onedrive\\m\u00E1y t\u00EDnh\\202406_c2se.24_s-l_source\\supportlearning\\studyspace.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|solutionrelative:supportlearning\\studyspace.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\supportlearning\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|solutionrelative:supportlearning\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\supportlearning\\authenticaiton page\\authentication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|solutionrelative:supportlearning\\authenticaiton page\\authentication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\supportlearning\\chat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|solutionrelative:supportlearning\\chat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\supportlearning\\friends.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|solutionrelative:supportlearning\\friends.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\supportlearning\\friends.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|solutionrelative:supportlearning\\friends.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\supportlearning\\chat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52C3D99E-01C5-4C13-83F5-B56A306EBCCE}|SupportLearning\\SupportLearning.csproj|solutionrelative:supportlearning\\chat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudySpace.aspx",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\StudySpace.aspx",
+              "RelativeDocumentMoniker": "SupportLearning\\StudySpace.aspx",
+              "ToolTip": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\StudySpace.aspx",
+              "RelativeToolTip": "SupportLearning\\StudySpace.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T07:15:24.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Friends.aspx",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\Friends.aspx",
+              "RelativeDocumentMoniker": "SupportLearning\\Friends.aspx",
+              "ToolTip": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\Friends.aspx",
+              "RelativeToolTip": "SupportLearning\\Friends.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T16:40:40.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Friends.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\Friends.aspx.cs",
+              "RelativeDocumentMoniker": "SupportLearning\\Friends.aspx.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\Friends.aspx.cs",
+              "RelativeToolTip": "SupportLearning\\Friends.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:08:08.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Authentication.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\Authenticaiton Page\\Authentication.aspx.cs",
+              "RelativeDocumentMoniker": "SupportLearning\\Authenticaiton Page\\Authentication.aspx.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\Authenticaiton Page\\Authentication.aspx.cs",
+              "RelativeToolTip": "SupportLearning\\Authenticaiton Page\\Authentication.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:29:52.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chat.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\Chat.aspx.cs",
+              "RelativeDocumentMoniker": "SupportLearning\\Chat.aspx.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\Chat.aspx.cs",
+              "RelativeToolTip": "SupportLearning\\Chat.aspx.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:34:47.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chat.aspx",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\Chat.aspx",
+              "RelativeDocumentMoniker": "SupportLearning\\Chat.aspx",
+              "ToolTip": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\Chat.aspx",
+              "RelativeToolTip": "SupportLearning\\Chat.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T13:47:34.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\HomePage.aspx",
+              "RelativeDocumentMoniker": "SupportLearning\\HomePage.aspx",
+              "ToolTip": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\HomePage.aspx",
+              "RelativeToolTip": "SupportLearning\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T15:23:00.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authentication.aspx",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\Authenticaiton Page\\Authentication.aspx",
+              "RelativeDocumentMoniker": "SupportLearning\\Authenticaiton Page\\Authentication.aspx",
+              "ToolTip": "C:\\Users\\MSI PC\\OneDrive\\M\u00E1y t\u00EDnh\\202406_C2SE.24_S-L_Source\\SupportLearning\\Authenticaiton Page\\Authentication.aspx",
+              "RelativeToolTip": "SupportLearning\\Authenticaiton Page\\Authentication.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-26T19:12:14.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
