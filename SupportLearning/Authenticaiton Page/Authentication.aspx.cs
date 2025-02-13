@@ -33,7 +33,7 @@ namespace SupportLearning
                     SqlDataReader reader = cmd.ExecuteReader();
 
                     if (reader.Read())
-
+                    { 
                         Session["Code_User"] = txt_CodeUser.Text.Trim();
                         txt_Info.Text = "Login Successfully";
 
